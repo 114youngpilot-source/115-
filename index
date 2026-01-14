@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>115年度青年職涯領航計畫線上回饋</title>
+  
+  <link rel="icon" href="https://ssl.gstatic.com/docs/spreadsheets/forms/favicon_qp2.png" type="image/png">
+
+  <style>
+    /* 這裡放入您提供的 CSS 邏輯 */
+    body, html { 
+      margin: 0; 
+      padding: 0; 
+      height: 100%; 
+      width: 100%; 
+      overflow: hidden; 
+      background-color: #f3f4f6; 
+    }
+    .wrapper { 
+      position: absolute; 
+      top: -25px; /* 向上移動 25px 以隱藏 GAS 橫幅 */
+      left: 0; 
+      width: 100%; 
+      height: calc(100% + 25px); 
+    }
+    iframe { 
+      width: 100%; 
+      height: 100%; 
+      border: none; 
+      display: block; 
+    }
+  </style>
+</head>
+<body>
+
+  <div class="wrapper">
+    <iframe src="https://script.google.com/macros/s/AKfycbyLZKwhJv4u4lh1qb7Ws-4HGwtLNNy_41bLtn5dS0IXX95TgfM_kN5_Whe0NurIbqUEoQ/exec">匯入中...</iframe>
+  </div>
+
+</body>
+</html>
